@@ -1,2 +1,2 @@
 ## Contributors
-- [@elifozyurek](https://github.com/hakanC9)
+- [@Hakan Çoban](https://github.com/hakanC9)
